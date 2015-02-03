@@ -1,4 +1,6 @@
-# node-chardet-cli [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
+# chardet-cli [![NPM version][npm-image]][npm-url] [![Dependency Status][depstat-image]][depstat-url]
+
+A simple wrapper for chardet (Node.js version)
 
 ## Usage
 
