@@ -1,3 +1,4 @@
+/*jshint node:true*/
 var chardet = require('chardet');
 
 var friendlyNames = {
