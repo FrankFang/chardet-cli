@@ -18,5 +18,14 @@
   "license": "MIT",
   "dependencies": {
     "chardet": "0.0.8"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/FrankFang/chardet-cli.git"
+  },
+  "bugs": {
+      "url" : "https://github.com/FrankFang/chardet-cli/issues" ,
+      "email" : "frankfang1990@gmail.com"
   }
+
 }
